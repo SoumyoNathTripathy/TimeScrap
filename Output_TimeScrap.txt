@@ -1,0 +1,22 @@
+[
+    {
+        "heading": "How Trump Steamrolled the GOP Primary",
+        "link": "https://time.com/6853014/donald-trump-super-tuesday-gop-nomination/",
+        "photo": "https://api.time.com/wp-content/uploads/2024/03/GettyImages-2046564427.jpg?quality=85&w=925&h=617&crop=1&resize=925,617"
+    },
+    {
+        "heading": "Young Progressive Activists Lay Out 'Roadmap' For Biden To Win Back Gen Z",
+        "link": "https://time.com/6852859/finish-the-job-agenda-biden-youth-activists/",
+        "photo": "https://api.time.com/wp-content/uploads/2024/03/gen-z-voters-biden.jpg?quality=85&w=925&h=617&crop=1&resize=925,617"
+    },
+    {
+        "heading": "Why Bitcoin Just Hit Its All-Time High",
+        "link": "https://time.com/6846934/bitcoin-all-time-high-price-holdings/",
+        "photo": "https://api.time.com/wp-content/uploads/2024/03/GettyImages-1312574813.jpg?quality=85&w=925&h=617&crop=1&resize=925,617"
+    },
+    {
+        "heading": "Greta Gerwig on How She Chooses Projects That Excite Her",
+        "link": "https://time.com/collection/women-of-the-year/6802100/greta-gerwig-projects-undertow-interview/",
+        "photo": "https://api.time.com/wp-content/uploads/2024/02/greta-gerwig-woty-interview-time.jpg?quality=85&w=925&h=617&crop=1&resize=925,617"
+    }
+]
